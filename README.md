@@ -44,7 +44,7 @@
 ## 使用说明
 1. 下载或克隆本仓库：
    ```bash
-   git clone https://github.com/your-repo-name.git
+   git clone https://github.com/artifical-intelligence-course.git
    ```
 2. 进入相应的目录查阅 PPT 和代码示例。
 3. 运行 Jupyter Notebook 进行代码练习。
