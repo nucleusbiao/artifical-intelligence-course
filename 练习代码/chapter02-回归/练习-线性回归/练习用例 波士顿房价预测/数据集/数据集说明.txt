@@ -1,2 +1,3 @@
-数据集存在于keras及很多其它框架内部，可以通过下述语句导入
-from keras.datasets import boston_housing #从Keras中导入Boston Housing数据集
+version https://git-lfs.github.com/spec/v1
+oid sha256:5def33ce92c1107986e83fd74e0ab2c3f22c493b67f972421f3aed499ee227f2
+size 168

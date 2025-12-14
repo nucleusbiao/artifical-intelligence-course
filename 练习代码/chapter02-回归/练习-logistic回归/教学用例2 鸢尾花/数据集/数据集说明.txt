@@ -1,2 +1,3 @@
-鸢尾花数据集，在Keras自带的Dataset中也有，因此大家做练习时有两个选择，既可以上载Iris.csv文件，读入DataFrame，也可以直接使用Keras自带的Iris Dataset，直接生成Numpy张量。
-源码包的示例中为了简化操作，直接使用Keras自带的Iris Dataset数据集。
+version https://git-lfs.github.com/spec/v1
+oid sha256:76cc5d7a477c7fc45a210b0590d58efac5972158f33c0f14add24c0fbd0a0f43
+size 319

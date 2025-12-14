@@ -1,2 +1,3 @@
-数据集链接位于https://www.kaggle.com/c/titanic
-在这个竞赛数据集页面中，还包含有如何参与Kaggle机器学习竞赛和提交结果文件的信息。读者可以尝试参与。
+version https://git-lfs.github.com/spec/v1
+oid sha256:e93a18fc3460b32542ee3dd31852f580792b389b9ec2548421b3907c3aabadf4
+size 199
